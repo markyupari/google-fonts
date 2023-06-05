@@ -6,7 +6,8 @@ Ark Industries will be a reference for automation in the history of technology.
 
 ## Using google fonts
 
-This page shows how to start styling fonts using Google fonts.
+This page shows how to start styling fonts using Google fonts.  
+<p><a href="https://fonts.google.com/">Here</a> is the link to Google fonts.</p>
 
 ## Usage
 
